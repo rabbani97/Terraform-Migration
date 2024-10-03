@@ -1,0 +1,5 @@
+.terraform/
+.terraform.lock.hcl
+.aztfexportResourceMapping.json
+.aztfexportSkippedResources.txt
+.terraform.tfstate.backup

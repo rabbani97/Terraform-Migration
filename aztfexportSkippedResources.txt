@@ -1,0 +1,6 @@
+Following resources are marked to be skipped:
+
+- /subscriptions/aab300ef-5c07-4cc8-a9df-951c157bb99d/resourceGroups/demo-rg/providers/Microsoft.Storage/storageAccounts/storagecw3xhaphmlb2e/blobServices/default
+- /subscriptions/aab300ef-5c07-4cc8-a9df-951c157bb99d/resourceGroups/demo-rg/providers/Microsoft.Storage/storageAccounts/storagecw3xhaphmlb2e/fileServices/default
+- /subscriptions/aab300ef-5c07-4cc8-a9df-951c157bb99d/resourceGroups/demo-rg/providers/Microsoft.Storage/storageAccounts/storagecw3xhaphmlb2e/queueServices/default
+- /subscriptions/aab300ef-5c07-4cc8-a9df-951c157bb99d/resourceGroups/demo-rg/providers/Microsoft.Storage/storageAccounts/storagecw3xhaphmlb2e/tableServices/default

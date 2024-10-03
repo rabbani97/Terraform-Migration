@@ -1,0 +1,37 @@
+{
+	"/subscriptions/aab300ef-5c07-4cc8-a9df-951c157bb99d/resourceGroups/demo-rg": {
+		"resource_id": "/subscriptions/aab300ef-5c07-4cc8-a9df-951c157bb99d/resourceGroups/demo-rg",
+		"resource_type": "azurerm_resource_group",
+		"resource_name": "res-0"
+	},
+	"/subscriptions/aab300ef-5c07-4cc8-a9df-951c157bb99d/resourceGroups/demo-rg/providers/Microsoft.Compute/virtualMachines/myVM": {
+		"resource_id": "/subscriptions/aab300ef-5c07-4cc8-a9df-951c157bb99d/resourceGroups/demo-rg/providers/Microsoft.Compute/virtualMachines/myVM",
+		"resource_type": "azurerm_linux_virtual_machine",
+		"resource_name": "res-1"
+	},
+	"/subscriptions/aab300ef-5c07-4cc8-a9df-951c157bb99d/resourceGroups/demo-rg/providers/Microsoft.Network/networkInterfaces/myNic": {
+		"resource_id": "/subscriptions/aab300ef-5c07-4cc8-a9df-951c157bb99d/resourceGroups/demo-rg/providers/Microsoft.Network/networkInterfaces/myNic",
+		"resource_type": "azurerm_network_interface",
+		"resource_name": "res-2"
+	},
+	"/subscriptions/aab300ef-5c07-4cc8-a9df-951c157bb99d/resourceGroups/demo-rg/providers/Microsoft.Network/publicIPAddresses/myPublicIP": {
+		"resource_id": "/subscriptions/aab300ef-5c07-4cc8-a9df-951c157bb99d/resourceGroups/demo-rg/providers/Microsoft.Network/publicIPAddresses/myPublicIP",
+		"resource_type": "azurerm_public_ip",
+		"resource_name": "res-3"
+	},
+	"/subscriptions/aab300ef-5c07-4cc8-a9df-951c157bb99d/resourceGroups/demo-rg/providers/Microsoft.Network/virtualNetworks/myVnet": {
+		"resource_id": "/subscriptions/aab300ef-5c07-4cc8-a9df-951c157bb99d/resourceGroups/demo-rg/providers/Microsoft.Network/virtualNetworks/myVnet",
+		"resource_type": "azurerm_virtual_network",
+		"resource_name": "res-4"
+	},
+	"/subscriptions/aab300ef-5c07-4cc8-a9df-951c157bb99d/resourceGroups/demo-rg/providers/Microsoft.Network/virtualNetworks/myVnet/subnets/default": {
+		"resource_id": "/subscriptions/aab300ef-5c07-4cc8-a9df-951c157bb99d/resourceGroups/demo-rg/providers/Microsoft.Network/virtualNetworks/myVnet/subnets/default",
+		"resource_type": "azurerm_subnet",
+		"resource_name": "res-5"
+	},
+	"/subscriptions/aab300ef-5c07-4cc8-a9df-951c157bb99d/resourceGroups/demo-rg/providers/Microsoft.Storage/storageAccounts/storagecw3xhaphmlb2e": {
+		"resource_id": "/subscriptions/aab300ef-5c07-4cc8-a9df-951c157bb99d/resourceGroups/demo-rg/providers/Microsoft.Storage/storageAccounts/storagecw3xhaphmlb2e",
+		"resource_type": "azurerm_storage_account",
+		"resource_name": "res-6"
+	}
+}
